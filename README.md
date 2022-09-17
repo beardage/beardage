@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**beardage/beardage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I'm ...
+```
+                    ___           ___           ___          _____          ___           ___           ___     
+     _____         /  /\         /  /\         /  /\        /  /::\        /  /\         /  /\         /  /\    
+    /  /::\       /  /:/_       /  /::\       /  /::\      /  /:/\:\      /  /::\       /  /:/_       /  /:/_   
+   /  /:/\:\     /  /:/ /\     /  /:/\:\     /  /:/\:\    /  /:/  \:\    /  /:/\:\     /  /:/ /\     /  /:/ /\  
+  /  /:/~/::\   /  /:/ /:/_   /  /:/~/::\   /  /:/~/:/   /__/:/ \__\:|  /  /:/~/::\   /  /:/_/::\   /  /:/ /:/_ 
+ /__/:/ /:/\:| /__/:/ /:/ /\ /__/:/ /:/\:\ /__/:/ /:/___ \  \:\ /  /:/ /__/:/ /:/\:\ /__/:/__\/\:\ /__/:/ /:/ /\
+ \  \:\/:/~/:/ \  \:\/:/ /:/ \  \:\/:/__\/ \  \:\/:::::/  \  \:\  /:/  \  \:\/:/__\/ \  \:\ /~~/:/ \  \:\/:/ /:/
+  \  \::/ /:/   \  \::/ /:/   \  \::/       \  \::/~~~~    \  \:\/:/    \  \::/       \  \:\  /:/   \  \::/ /:/ 
+   \  \:\/:/     \  \:\/:/     \  \:\        \  \:\         \  \::/      \  \:\        \  \:\/:/     \  \:\/:/  
+    \  \::/       \  \::/       \  \:\        \  \:\         \__\/        \  \:\        \  \::/       \  \::/   
+     \__\/         \__\/         \__\/         \__\/                       \__\/         \__\/         \__\/    
+```
+     
+- 🔭 I’m currently working as a Senior Frontend Engineer at [HiHello](https://hihello.me) during the day and on a secret Shopify Hydrogen project at night.
+- 💬 Ask me about [my dotfiles.](https://github.com/beardage/dotfiles).
+- 📫 How to reach me: [email](mailto:kb@kylebeard.com}
+- 😄 Pronouns: He/Him/His
